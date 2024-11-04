@@ -8,3 +8,5 @@ These plugins are maintained by the core GitProxy team. As a future roadmap item
 certain features of GitProxy by simply removing the dependency from a deployed version of the application.
 
 - `git-proxy-plugin-samples`: "hello world" examples of the GitProxy plugin system
+
+## include 
