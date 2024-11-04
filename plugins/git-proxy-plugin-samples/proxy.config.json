@@ -1,0 +1,12 @@
+{
+  "authorisedList": [
+    {
+      "project": "AbhishekPThite",
+      "name": "git-proxy",
+      "url": "https://github.com/AbhishekPThite/git-proxy.git"
+    }
+  ],
+  "plugins": [
+    "./index.js"
+  ]
+}
